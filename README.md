@@ -1,1 +1,1 @@
-ExercicioJavaAlgoritmos
+Exercicio de Java Algoritmos
